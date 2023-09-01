@@ -2,5 +2,5 @@
 This is my first repository.
 # Akash Deep
 Coder 
-# Teather
+# Teacher
 Sharadha khapara
