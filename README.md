@@ -75,7 +75,7 @@
     click Create pull request
 
 # Git_Demo
-This is my first repository.
+This is my first repository..
 # Coder
 Akash Deep 
 # Teacher
